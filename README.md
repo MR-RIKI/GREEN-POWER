@@ -4,8 +4,13 @@
 # INSTALLATION
 
 ```• apt update && apt upgrade```
+
 ```• apt install git python wget```
+
 ```• pip install requests mechanize bs4 lolcat```
+
 ```• git clone ```
+
 ```• cd```
+
 ```• python run.py```
