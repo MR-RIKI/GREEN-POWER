@@ -9,8 +9,10 @@
 
 ```• pip install requests mechanize bs4 lolcat```
 
-```• git clone ```
+```• git clone https://github.com/MR-RIKI/GREEN-POWER```
 
-```• cd```
+# RUN TOOL
+
+```• cd GREEN-POWER```
 
 ```• python run.py```
