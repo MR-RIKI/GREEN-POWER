@@ -31,4 +31,4 @@ https://user-images.githubusercontent.com/104522915/166131485-96095c9b-afc1-4aab
 
 ### Developed With
 
-![images (12)](https://user-images.githubusercontent.com/104522915/166131648-b8e6dec9-d8ac-4d82-8473-c6c8a190ecba.jpeg)
+![giphy](https://user-images.githubusercontent.com/104522915/166131703-895d90fb-0a00-4d44-83b1-c6a32f3f609b.gif)
