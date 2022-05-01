@@ -17,6 +17,10 @@
 
 ```• python run.py```
 
+# EXTENTION FOR GET FB TOKEN
+
+Link - ```shorturl.at/cgA38```
+
 # NOTE
 
 ```THIS TOOL IS PAID💌SO,YOU NEED TO BUY APPROVAL FOR USE THIS TOOL```
