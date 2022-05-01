@@ -17,11 +17,10 @@
 
 ```• python run.py```
 
-### EXTENTION FOR GET FB TOKEN
+### HOW TO GET WORKING FB TOKEN
 
-Link - ```shorturl.at/cgA38```
+Extention Link - ```shorturl.at/cgA38```
 
-How to get Token -
 
 https://user-images.githubusercontent.com/104522915/166131485-96095c9b-afc1-4aab-bfaf-370be220c2c7.mp4
 
