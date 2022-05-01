@@ -1,7 +1,7 @@
-# POWER 👇
+### POWER 👇
 ![1651321011396](https://user-images.githubusercontent.com/104522915/166105349-8792db04-219d-427d-aacb-ea4e52d7d85a.jpg)
 
-# INSTALLATION
+### INSTALLATION
 
 ```• apt update && apt upgrade```
 
@@ -11,13 +11,13 @@
 
 ```• git clone https://github.com/MR-RIKI/GREEN-POWER```
 
-# RUN TOOL
+### RUN TOOL
 
 ```• cd GREEN-POWER```
 
 ```• python run.py```
 
-# EXTENTION FOR GET FB TOKEN
+### EXTENTION FOR GET FB TOKEN
 
 Link - ```shorturl.at/cgA38```
 
