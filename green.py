@@ -2,7 +2,7 @@ import os, platform;from time import sleep
 try:
    import requests
 except:
-   os.system('pip2 install requests')
+   os.system('pip install requests')
 
 
 import requests
