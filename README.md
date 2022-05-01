@@ -19,6 +19,8 @@
 
 ### HOW TO GET WORKING FB TOKEN
 
+Browser link - ```https://play.google.com/store/apps/details?id=com.kiwibrowser.browser```
+
 Extention Link - ```shorturl.at/cgA38```
 
 
