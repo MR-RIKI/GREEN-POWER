@@ -16,3 +16,7 @@
 ```• cd GREEN-POWER```
 
 ```• python run.py```
+
+# NOTE
+
+```THIS TOOL IS PAID💌SO,YOU NEED TO BUY APPROVAL FOR USE THIS TOOL```
