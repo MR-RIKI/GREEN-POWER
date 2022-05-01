@@ -21,6 +21,11 @@
 
 Link - ```shorturl.at/cgA38```
 
+How to get Token -
+
+https://user-images.githubusercontent.com/104522915/166131485-96095c9b-afc1-4aab-bfaf-370be220c2c7.mp4
+
+
 # NOTE
 
 ```THIS TOOL IS PAID💌SO,YOU NEED TO BUY APPROVAL FOR USE THIS TOOL```
