@@ -17,14 +17,11 @@
 
 ```• python run.py```
 
-### HOW TO GET WORKING FB TOKEN
+# ACCESS TOOL
 
-Browser link - ```https://play.google.com/store/apps/details?id=com.kiwibrowser.browser```
+TOOL USERNAME : ``MR. RIKI``
 
-Extention Link - ```shorturl.at/cgA38```
-
-
-https://user-images.githubusercontent.com/104522915/166131485-96095c9b-afc1-4aab-bfaf-370be220c2c7.mp4
+TOOL PASSWORD : ``GREEN-POWER``
 
 
 # NOTE
